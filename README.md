@@ -1,2 +1,2 @@
 # python
-complete pyhron course
+complete python course
